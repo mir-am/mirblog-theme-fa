@@ -266,6 +266,9 @@ if ( ! function_exists( 'independent_publisher_stylesheet_rtl' ) ) :
 	 */
 	function independent_publisher_stylesheet_rtl() {
 		wp_enqueue_style( 'independent-publisher-style', get_template_directory_uri() . '/css/rtl-style.css' );
+
+        // Load RTL CSS for Persian translation.
+        wp_enqueue_style('rtl', get_template_directory_uri() . '/rtl.css', array());
 	}
 endif;
 
