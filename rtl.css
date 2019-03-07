@@ -23,3 +23,8 @@ h1, h2, h3, h4, h5, h6 ul, li{
 input[type="submit"]{
     font-family: 'Vazir';
 }
+
+.site-logo img{
+    border-radius: 0;
+    max-width: 150px;
+ }
