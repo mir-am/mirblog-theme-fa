@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mirblog-theme-fa\n"
 "POT-Creation-Date: 2014-08-21 10:36-0500\n"
-"PO-Revision-Date: 2019-03-07 14:46+0330\n"
+"PO-Revision-Date: 2019-03-07 15:45+0330\n"
 "Last-Translator: \n"
 "Language-Team: mirblog.ir\n"
 "Language: fa_IR\n"
@@ -248,7 +248,7 @@ msgstr ""
 
 #: ../functions.php:1060
 msgid "by"
-msgstr ""
+msgstr "توسط"
 
 #: ../header.php:56
 msgid "Skip to content"
