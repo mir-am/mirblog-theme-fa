@@ -16,11 +16,11 @@ body{
     font-family: 'Vazir';
 }
 
-h1, h2, h3, h4, h5, h6 ul, li{
+h1, h2, h3, h4, h5, h6 ul, li, .field{
     font-family: 'Vazir';
 }
 
-input[type="submit"]{
+input[type="submit"], input[type="text"], textarea{
     font-family: 'Vazir';
 }
 
@@ -28,3 +28,13 @@ input[type="submit"]{
     border-radius: 0;
     max-width: 150px;
  }
+
+.comment-form-author label, .comment-form-email label, .comment-form-url label, .comment-form-comment label,
+.comment-form-subscriptions label, .comment-form-reply-title{
+    font-family: 'Vazir';
+}
+
+.entry-content, .entry-summary {
+    font-size: 0.8em;
+    line-height: 1.8em;
+}
