@@ -13,7 +13,8 @@
 
 <footer id="colophon" class="site-footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter" role="contentinfo">
 	<div class="site-info">
-		<?php echo independent_publisher_footer_credits(); ?>
+		<?php echo independent_publisher_footer_credits() . "<br />"; ?>
+        <?php echo "Translated and improved by " . "<a href=\"https://github.com/mir-am\" target='_blank' title=\"Mir's GitHub profile\">Mir</a>"; ?>
 	</div>
 	<!-- .site-info -->
 </footer><!-- #colophon .site-footer -->
@@ -23,3 +24,5 @@
 
 </body>
 </html>
+
+
