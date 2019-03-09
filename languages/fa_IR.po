@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mirblog-theme-fa\n"
 "POT-Creation-Date: 2014-08-21 10:36-0500\n"
-"PO-Revision-Date: 2019-03-08 23:01+0330\n"
+"PO-Revision-Date: 2019-03-09 22:25+0330\n"
 "Last-Translator: \n"
 "Language-Team: mirblog.ir\n"
 "Language: fa_IR\n"
@@ -232,7 +232,7 @@ msgstr "وب‌سایت"
 
 #: ../functions.php:558
 msgid "Write a Comment"
-msgstr ""
+msgstr "نوشتن دیدگاه"
 
 #: ../functions.php:843
 msgid "Use as post cover (full-width)"
@@ -437,7 +437,7 @@ msgstr ""
 
 #: ../inc/template-tags.php:97 ../inc/template-tags.php:140
 msgid "(Edit)"
-msgstr ""
+msgstr "(ویرایش)"
 
 #: ../inc/template-tags.php:165 ../inc/template-tags.php:196
 #: ../inc/template-tags.php:208
@@ -455,7 +455,7 @@ msgstr "ادامه مطلب &rarr;"
 
 #: ../inc/template-tags.php:288
 msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
-msgstr ""
+msgstr "<span class=\"meta-nav\">&larr;</span> ادامه مطلب"
 
 #: ../inc/template-tags.php:358
 #, php-format

@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 ul, li, .field{
     font-family: 'Vazir';
 }
 
-input[type="submit"], input[type="text"], textarea{
+input[type="submit"], input[type="text"], button, textarea{
     font-family: 'Vazir';
 }
 
@@ -38,3 +38,9 @@ input[type="submit"], input[type="text"], textarea{
     font-size: 0.8em;
     line-height: 1.8em;
 }
+
+/*.share-comment-icon::before {*/
+    /*position: relative;*/
+    /*left: -50px;*/
+/*}*/
+
