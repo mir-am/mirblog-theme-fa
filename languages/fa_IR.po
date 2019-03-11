@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mirblog-theme-fa\n"
 "POT-Creation-Date: 2014-08-21 10:36-0500\n"
-"PO-Revision-Date: 2019-03-09 22:25+0330\n"
+"PO-Revision-Date: 2019-03-11 23:14+0330\n"
 "Last-Translator: \n"
 "Language-Team: mirblog.ir\n"
 "Language: fa_IR\n"
@@ -30,7 +30,7 @@ msgstr ""
 #: ../404.php:45
 #, php-format
 msgid "Try looking in the monthly archives. %1$s"
-msgstr ""
+msgstr "می‌توانید مطالب ماه‌های پیشین را بررسی کنید."
 
 #: ../archive.php:50
 msgid "Asides"
@@ -93,7 +93,7 @@ msgstr ""
 
 #: ../comments.php:83
 msgid "Comments are closed."
-msgstr ""
+msgstr "امکان ارسال دیدگاه وجود ندارد."
 
 #: ../comments.php:102
 msgid "Readers who shared this"
@@ -105,7 +105,7 @@ msgstr ""
 
 #: ../content-none.php:13 ../no-results.php:14
 msgid "Nothing Found"
-msgstr ""
+msgstr "چیزی مطابق با عبارت جستجو شده پیدا نشد."
 
 #: ../content-none.php:20 ../no-results.php:21
 #, php-format
@@ -117,7 +117,7 @@ msgstr ""
 msgid ""
 "Sorry, but nothing matched your search terms. Please try again with some "
 "different keywords."
-msgstr ""
+msgstr "لطفا دوباره با کلمات کلیدی متفاوت جستجو کنید."
 
 #: ../content-none.php:30 ../no-results.php:31
 msgid ""
@@ -191,7 +191,7 @@ msgstr ""
 
 #: ../functions.php:315
 msgid "Reply to"
-msgstr ""
+msgstr "پاسخ به"
 
 #: ../functions.php:349
 #, php-format
@@ -297,7 +297,7 @@ msgstr ""
 #: ../search.php:19
 #, php-format
 msgid "Search Results for: %s"
-msgstr ""
+msgstr "نتایج جستجو برای: %s"
 
 #: ../searchform.php:11
 msgid "Search &hellip;"
@@ -490,8 +490,8 @@ msgstr ""
 #, php-format
 msgid "Found one search result for <strong>%2$s</strong>."
 msgid_plural "Found %1$s search results for <strong>%2$s</strong>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1$s مطلب پیدا شد برای:  <strong>%2$s</strong>."
+msgstr[1] "فقط یک مورد مطلب پیدا شد برای: <strong>%2$s</strong>"
 
 #: ../inc/template-tags.php:640
 #, php-format
