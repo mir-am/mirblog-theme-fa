@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mirblog-theme-fa\n"
 "POT-Creation-Date: 2014-08-21 10:36-0500\n"
-"PO-Revision-Date: 2019-03-11 23:14+0330\n"
+"PO-Revision-Date: 2019-03-12 22:54+0330\n"
 "Last-Translator: \n"
 "Language-Team: mirblog.ir\n"
 "Language: fa_IR\n"
@@ -85,11 +85,11 @@ msgstr ""
 
 #: ../comments.php:51 ../comments.php:72
 msgid "&larr; Older Comments"
-msgstr ""
+msgstr "&larr; دیدگاه‌های قدیمی‌تر"
 
 #: ../comments.php:52 ../comments.php:73
 msgid "Newer Comments &rarr;"
-msgstr ""
+msgstr "&larr; دیدگاه‌های جدیدتر"
 
 #: ../comments.php:83
 msgid "Comments are closed."
@@ -200,7 +200,7 @@ msgstr ""
 
 #: ../functions.php:350
 msgid "Cancel Reply"
-msgstr ""
+msgstr "بستن ارسال دیدگاه"
 
 #: ../functions.php:351
 msgid "Submit Comment"
@@ -217,6 +217,8 @@ msgid ""
 "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
 "this account\">Log out?</a>"
 msgstr ""
+"وارد شده به عنوان <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log "
+"out of this account\">بیرون رفتن؟</a>"
 
 #: ../functions.php:369
 msgid "Name"
@@ -309,7 +311,7 @@ msgstr ""
 
 #: ../single.php:28
 msgid "Related Content by Tag"
-msgstr ""
+msgstr "مطالب مرتبط با برچسب‌های"
 
 #: ../inc/customizer.php:19
 msgid "Layout Options"
@@ -425,11 +427,11 @@ msgstr ""
 
 #: ../inc/template-tags.php:51
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
-msgstr ""
+msgstr "<span class=\"meta-nav\">&larr;</span> مطالب قدیمی‌تر"
 
 #: ../inc/template-tags.php:55
 msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
-msgstr ""
+msgstr "<span class=\"meta-nav\">&larr;</span> مطالب جدیدتر"
 
 #: ../inc/template-tags.php:85
 msgid " - Your comment is awaiting moderation."
@@ -497,15 +499,15 @@ msgstr[1] "فقط یک مورد مطلب پیدا شد برای: <strong>%2$s</s
 #, php-format
 msgid "There is one post filed in <strong>%2$s</strong>."
 msgid_plural "There are %1$s posts filed in <strong>%2$s</strong>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1$s مطلب برای دسته‌ی<strong>%2$s</strong> یافت شد."
+msgstr[1] "یک مطلب برای دسته‌ی <strong>%2$s</strong> یافت شد."
 
 #: ../inc/template-tags.php:642
 #, php-format
 msgid "There is one post tagged <strong>%2$s</strong>."
 msgid_plural "There are %1$s posts tagged <strong>%2$s</strong>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1$s مطلب با برچسب <strong>%2$s</strong> بردار وجود دارد."
+msgstr[1] "فقط یک مطلب با برچسب <strong>%2$s</strong> وجود دارد."
 
 #: ../inc/template-tags.php:673
 #, php-format
@@ -539,5 +541,5 @@ msgstr[1] ""
 #, php-format
 msgid "There was one post published in %2$s %3$s."
 msgid_plural "There were %1$s posts published in %2$s %3$s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1$s مطلب در %2$s %3$s منتشر شده است."
+msgstr[1] "فقط یک مطلب در %2$s %3$s منتشر شده است."
