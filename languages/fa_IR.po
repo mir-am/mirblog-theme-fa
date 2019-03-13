@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mirblog-theme-fa\n"
 "POT-Creation-Date: 2014-08-21 10:36-0500\n"
-"PO-Revision-Date: 2019-03-12 22:54+0330\n"
+"PO-Revision-Date: 2019-03-13 22:01+0330\n"
 "Last-Translator: \n"
 "Language-Team: mirblog.ir\n"
 "Language: fa_IR\n"
@@ -101,7 +101,7 @@ msgstr ""
 
 #: ../comments.php:104
 msgid "Thank you!"
-msgstr ""
+msgstr "باسپاس!"
 
 #: ../content-none.php:13 ../no-results.php:14
 msgid "Nothing Found"
@@ -150,7 +150,7 @@ msgstr "ویرایش"
 #: ../functions.php:1090
 #, php-format
 msgid "Permalink to %s"
-msgstr ""
+msgstr "لینک دائمی به %s"
 
 #: ../content.php:91 ../functions.php:408
 msgid "Comment"
@@ -187,7 +187,7 @@ msgstr ""
 
 #: ../functions.php:302
 msgid "Anonymous"
-msgstr ""
+msgstr "ناشناس"
 
 #: ../functions.php:315
 msgid "Reply to"
@@ -209,7 +209,7 @@ msgstr "ثبت دیدگاه"
 #: ../functions.php:354
 #, php-format
 msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
-msgstr ""
+msgstr "لطفا برای ارسال دیدگاه در سایت <a href=\"%s\"> ثبت‌نام</a> کنید."
 
 #: ../functions.php:359
 #, php-format
@@ -246,7 +246,7 @@ msgstr ""
 
 #: ../functions.php:1051
 msgid "in"
-msgstr ""
+msgstr "در"
 
 #: ../functions.php:1060
 msgid "by"
@@ -513,8 +513,8 @@ msgstr[1] "فقط یک مطلب با برچسب <strong>%2$s</strong> وجود �
 #, php-format
 msgid "There was one post published in %2$s."
 msgid_plural "There were %1$s posts published in %2$s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1$s مطلب در سال %2$s منتشر شده است."
+msgstr[1] "یک مطلب در سال %2$s منتشر شده است."
 
 #: ../inc/template-tags.php:675
 #, php-format
@@ -527,8 +527,8 @@ msgstr[1] ""
 #, php-format
 msgid "There was one post published on %2$s."
 msgid_plural "There were %1$s posts published on %2$s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1$s مطلب در روز %2$s منتشر شده است."
+msgstr[1] "یک مطلب در روز %2$s منتشر شده است."
 
 #: ../inc/template-tags.php:685
 #, php-format
