@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mirblog-theme-fa\n"
 "POT-Creation-Date: 2014-08-21 10:36-0500\n"
-"PO-Revision-Date: 2019-03-13 22:01+0330\n"
+"PO-Revision-Date: 2019-03-15 22:30+0330\n"
 "Last-Translator: \n"
 "Language-Team: mirblog.ir\n"
 "Language: fa_IR\n"
@@ -274,19 +274,19 @@ msgstr ""
 
 #: ../page_archive-template.php:45
 msgid "Yearly Archives"
-msgstr ""
+msgstr "آرشیو سالانه"
 
 #: ../page_archive-template.php:47
 msgid "Select Year"
-msgstr ""
+msgstr "انتخاب سال"
 
 #: ../page_archive-template.php:53
 msgid "Monthly Archives"
-msgstr ""
+msgstr "آرشیو ماهانه"
 
 #: ../page_archive-template.php:55
 msgid "Select Month"
-msgstr ""
+msgstr "انتخاب ماه"
 
 #: ../page_archive-template.php:61 ../searchform.php:10 ../searchform.php:12
 msgid "Search"
@@ -445,7 +445,7 @@ msgstr "(ویرایش)"
 #: ../inc/template-tags.php:208
 #, php-format
 msgid "View all posts by %s"
-msgstr ""
+msgstr "مشاهده تمام مطالب نوشته شده توسط %s"
 
 #: ../inc/template-tags.php:182
 msgid ", "
@@ -475,7 +475,7 @@ msgstr "تاریخ انتشار"
 
 #: ../inc/template-tags.php:442 ../inc/template-tags.php:483
 msgid "Updated"
-msgstr ""
+msgstr "به‌روز شده"
 
 #: ../inc/template-tags.php:510
 #, php-format
@@ -534,8 +534,8 @@ msgstr[1] "یک مطلب در روز %2$s منتشر شده است."
 #, php-format
 msgid "There was one post published in the month of %2$s."
 msgid_plural "There were %1$s posts published in %2$s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1$s مطلب در ماه %2$s منتشر شده است."
+msgstr[1] "یک مطلب در ماه %2$s منتشر شده است."
 
 #: ../inc/template-tags.php:690
 #, php-format
