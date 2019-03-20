@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mirblog-theme-fa\n"
 "POT-Creation-Date: 2014-08-21 10:36-0500\n"
-"PO-Revision-Date: 2019-03-15 22:30+0330\n"
+"PO-Revision-Date: 2019-03-20 10:03+0330\n"
 "Last-Translator: \n"
 "Language-Team: mirblog.ir\n"
 "Language: fa_IR\n"
@@ -76,7 +76,7 @@ msgstr ""
 #, php-format
 msgid "1 Comment"
 msgid_plural "%1$s Comments"
-msgstr[0] ""
+msgstr[0] "۱ دیدگاه"
 msgstr[1] "۱ دیدگاه"
 
 #: ../comments.php:49 ../comments.php:70
