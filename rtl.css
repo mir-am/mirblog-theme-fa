@@ -51,6 +51,31 @@ p{
     font-family: 'Vazir';
 }
 
+/*
+Custom style and image for social media icons
+*/
+#menu-social li a[href*="github.com"]::before{
+    content: url("img/github.svg");
+    width: 28px;
+    height: 28px;
+    opacity: 1;
+}
+
+#menu-social li a[href*="github.com"]:hover::before{
+    opacity: 1;
+}
+
+#menu-social li a[href*="linkedin.com"]::before{
+    content: url("img/linkedin.svg");
+    width: 28px;
+    height: 28px;
+    opacity: 1;
+}
+
+#menu-social li a[href*="linkedin.com"]:hover::before{
+    opacity: 1;
+}
+
 /*.share-comment-icon::before {*/
     /*position: relative;*/
     /*left: -50px;*/
