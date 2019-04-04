@@ -93,12 +93,16 @@
 			<?php independent_publisher_posted_author_cats() ?>
 		<?php endif; ?>
 
+
+        <!--Show post categories - Added by Mir, A.-->
+        <?php echo independent_publisher_entry_meta_category_prefix() ?> <?php echo independent_publisher_post_categories(); ?>
+        <span class="sep"> <?php echo apply_filters( 'independent_publisher_entry_meta_separator', '|' ); ?> </span>
+
 		<?php /* Show post date when show post date option enabled */
 		?>
 		<?php if ( independent_publisher_show_date_entry_meta() ) : ?>
 			<?php echo independent_publisher_get_post_date() ?>
 		<?php endif; ?>
-
 		<?php
 		/* Show post word count when post is not password-protected AND
 		 * this is a Standard post format AND
@@ -127,5 +131,6 @@
 		<?php edit_post_link( __( 'Edit', 'independent-publisher' ), '<span class="sep"> ' . $separator . ' </span> <span class="edit-link">', '</span>' ); ?>
 
 	</footer>
+
 	<!-- .entry-meta -->
 </article><!-- #post-<?php the_ID(); ?> -->
